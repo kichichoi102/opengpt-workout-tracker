@@ -3,7 +3,7 @@ Leverages Nutritionix OpenAI GPT3 NLP model to classify exercise log text and wr
 
 If a user inputs an exercise they did, eg. `ran a 10km marathon`, then this would be categorized into `Running`, and Nutritionix will approximate your `Calories spent` and `exercise duration` based on your given personal info!
 
-## Try!
+## Try it out!
 [Replit Terminal](https://replit.com/@kichichoi102/opengpt-workout-tracker?v=1)
 
 [Example Sheets](https://docs.google.com/spreadsheets/d/1NbsVkdDllT1oTpDTaZrhtmP0zYPVN6bfJrx5W6LxpiI/edit?usp=sharing)
