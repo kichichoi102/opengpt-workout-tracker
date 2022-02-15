@@ -1,5 +1,6 @@
 # opengpt-workout-tracker
 Leverages Nutritionix OpenAI GPT3 NLP model to classify exercise log text and write to Google Sheets
+If a user inputs an exercise they did, eg. `ran a 10km marathon`, then this would be categorized into `Running`, and Nutritionix will approximate your Calories spend and duration based on your given personal info!
 
 ## Setup Nutritionix API Credentials
 1. Clone repository
