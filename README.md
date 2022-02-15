@@ -19,3 +19,5 @@ Leverages Nutritionix OpenAI GPT3 NLP model to classify exercise log text and wr
 2. Fill out rest of personal details in `.env` (WEIGHT, HEIGHT, AGE, GENDER)
 3. run `python main.py`
  
+## Example
+![screen-capture (3)](https://user-images.githubusercontent.com/70384232/154111525-e61de165-5175-4fee-8de2-3b49e4e6b196.gif)
